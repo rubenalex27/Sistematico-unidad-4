@@ -281,8 +281,7 @@ public class FrmIngresar extends javax.swing.JFrame {
             futbolistas.add(uno);
             tbl.setNumRows(0);
             mostrarFutbolista();
-//            mostrarAdmin();
-//            mostrarDocente();
+
             System.out.println(uno);
         }catch(Exception ex){
             System.out.println("error");
